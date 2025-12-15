@@ -7,7 +7,7 @@ target/
 # custom define
 application-local.yaml
 mcp-servers.json
-
+llm-agent-frontned/node_modules
 ### STS ###
 .apt_generated
 .classpath
